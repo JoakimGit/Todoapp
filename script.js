@@ -6,8 +6,12 @@ let filterMode = '';
 let selectedTodo = '';
 
 function init() {
+    addNewTodoListener();
+    addTodoContainerListeners();
+    addOnclickEvents();
     todos = JSON.parse(localStorage.getItem("todos")) || [];
     mode = localStorage.getItem("theme");
+
     if (mode === "light") document.body.classList.toggle("light");
     if (!todos.length) return updateListCount();    
 
@@ -19,9 +23,6 @@ function init() {
             todoDiv.classList.toggle('completed');
         }
     });
-    addNewTodoListener();
-    addTodoContainerListeners();
-    addOnclickEvents();
 }
 
 init();
