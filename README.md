@@ -21,8 +21,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [frontendmentor.io/solutions/mobile-first-HfC4BXasQ](https://www.frontendmentor.io/solutions/mobile-first-HfC4BXasQ)
+- Live Site URL: [joakimgit.github.io/Todoapp/](https://joakimgit.github.io/Todoapp/)
 
 ### Built with
 
