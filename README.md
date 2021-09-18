@@ -17,7 +17,7 @@ Users should be able to:
 ### Screenshot
 
 ![theme-dark](./images/todo-look-dark.PNG)
-![theme-light](./iamges/todo-look-light.PNG)
+![theme-light](./images/todo-look-light.PNG)
 
 ### Links
 
