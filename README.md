@@ -22,7 +22,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [frontendmentor.io/solutions/mobile-first-HfC4BXasQ](https://www.frontendmentor.io/solutions/mobile-first-HfC4BXasQ)
-- Live Site URL: [joakimgit.github.io/Todoapp/](https://joakimgit.github.io/Todoapp/)
+- Live Site URL: [https://todo-mentor.netlify.app](https://todo-mentor.netlify.app/)
 
 ### Built with
 
