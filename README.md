@@ -1,11 +1,6 @@
-This is a solution to the [Todo app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/todo-app-Su1_KokOW). 
+### Features
 
-### The challenge
-
-Users should be able to:
-
-- View the optimal layout for the app depending on their device's screen size
-- See hover states for all interactive elements on the page
+- Responsive layout
 - Add new todos to the list
 - Mark todos as complete
 - Delete todos from the list
@@ -21,8 +16,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [frontendmentor.io/solutions/mobile-first-HfC4BXasQ](https://www.frontendmentor.io/solutions/mobile-first-HfC4BXasQ)
 - Live Site URL: [https://todo-mentor.netlify.app](https://todo-mentor.netlify.app/)
+- Solution URL: [frontendmentor.io/solutions/mobile-first-HfC4BXasQ](https://www.frontendmentor.io/solutions/mobile-first-HfC4BXasQ)
 
 ### Built with
 
